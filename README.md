@@ -9,9 +9,12 @@ rewrite_contact=yes<br>
 <br>
 # INSTALL<br>
 <br>
-``` 
-cd /tmp/
-wget https://raw.githubusercontent.com/fouille/wazo-add-pjsip-override/master/add-override.sh
-chmod +x add-override.sh
-./add-override.sh
-``` 
+
+> cd /tmp/
+
+> wget https://raw.githubusercontent.com/fouille/wazo-add-pjsip-override/master/add-override.sh
+
+> chmod +x add-override.sh
+
+> ./add-override.sh
+ 
