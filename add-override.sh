@@ -19,6 +19,6 @@ rewrite_contact=yes
 EOF
 
 echo "3/3 - reload asterisk"
-#asterisk -r 'core reload'
+asterisk -r 'core reload'
 
 echo "End"
