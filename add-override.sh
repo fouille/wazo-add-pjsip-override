@@ -10,7 +10,7 @@ EOF
 echo "2/3 - create file 'override'"
 
 touch /etc/asterisk/pjsip.d/001-reg.conf
-cat >> /etc/asterisk/pjsip.d/001-reg.conf <<'EOF'
+cat > /etc/asterisk/pjsip.d/001-reg.conf <<'EOF'
 [wazo-general-endpoint-override](!)
 rtp_symmetric=yes
 force_rport=yes
