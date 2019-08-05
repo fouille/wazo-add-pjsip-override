@@ -18,6 +18,6 @@ rewrite_contact=yes
 EOF
 
 echo "3/3 - reload asterisk"
-asterisk -r 'module reload res_pjsip.so'
+asterisk -x 'module reload res_pjsip.so'
 
 echo "End"
