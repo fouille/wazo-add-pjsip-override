@@ -5,7 +5,7 @@ For add addtional options in Asterisk :<br>
 `force_rport=yes` <br>
 `rewrite_contact=yes` <br>
 <br>
---- only necessary when the endpoint is in a NAT environment ---<br>
+<b>--- only necessary when the endpoint is in a NAT environment ---<br></b>
 <br>
 # INSTALL<br>
 <br>
