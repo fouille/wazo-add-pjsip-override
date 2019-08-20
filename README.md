@@ -9,9 +9,10 @@ For add addtional options in Asterisk :<br>
 <br>
 # INSTALL<br>
 <br>
+
 ```console
-foo@bar:~$ cd /tmp/
-foo@bar:/tmp$ wget https://raw.githubusercontent.com/fouille/wazo-add-pjsip-override/master/add-override.sh
-foo@bar:/tmp$ chmod +x add-override.sh
-foo@bar:/tmp$ ./add-override.sh
+foo@bar:~$  cd /tmp/
+foo@bar:/tmp$  wget https://raw.githubusercontent.com/fouille/wazo-add-pjsip-override/master/add-override.sh
+foo@bar:/tmp$  chmod +x add-override.sh
+foo@bar:/tmp$  ./add-override.sh
 ```
