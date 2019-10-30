@@ -7,6 +7,9 @@ For add addtional options in Asterisk :<br>
 <br>
 <b>--- only necessary when the endpoint is in a NAT environment ---<br></b>
 <br>
+Minimum Wazo version : 19.10
+Maximum Wazo version : 19.12
+
 # INSTALL<br>
 <br>
 
